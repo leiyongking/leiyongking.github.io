@@ -4,7 +4,7 @@ SEOTitle: 雷勇的博客 | BY Leo
 header-img: img/post-bg-desk.jpg
 email: wangleiyong06@gmail.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 雷勇的博客, qiubaiying, 王雷勇, iOS, Apple, iPhone"
+keyword: "BY, BY Leo, 雷勇的博客, leiyongking, 王雷勇, iOS, Apple, iPhone"
 url: "https://leiyongking.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/leiyongking/leiyongking.github.io.git" # you code repository
@@ -78,7 +78,7 @@ ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
 # Google Analytics
 ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+ga_domain: auto.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
